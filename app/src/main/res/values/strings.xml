@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarea Semana 2.1</string>
+    <string name="editTextNombre">Nombre</string>
+    <string name="editTextFecha">Fecha</string>
+    <string name="editTextTelefono">Telefono</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextDescripcion">Descripcion</string>
+
+    <string name="Button">Seguiente</string>
+
+    <string name="textViewTitulo">Titulo</string>
+
+    <string name="textViewNombre">Nombre</string>
+    <string name="textViewFecha">Fecha</string>
+    <string name="textViewTelefono">Telefono</string>
+    <string name="textViewEmail">Email</string>
+    <string name="textViewDetalle">Detalle</string>
+
+    <string name="ButtonEditar">Editar</string>
+</resources>
